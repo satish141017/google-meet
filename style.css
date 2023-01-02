@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+nav{
+    /* background-color: aqua; */
+    margin: auto;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+.nav-left{
+    margin-top: 4px;
+
+}
+.nav-right{
+    float: right;
+    margin-left: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #5f6368;
+    
+}
+.times{
+    margin-right: 20px;
+    color: #5f6368;
+}
+.btnsnav{
+    margin-right: 20px;
+    margin-left: 7px;
+   
+    font-size: 25px;
+}
+.btnsnav2{
+    margin-left: 7px;
+    margin-right: 15px;
+
+}
+.aps{
+    margin-left: 20px;
+}
+main{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 650px;
+    
+}
+
+.right-main{
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.left-main{
+    width: 500px;
+    margin-left: -70px;
+}
+.headding1{
+    font-size: 2.75rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.heading2{
+    font-size: 1.125rem;
+    margin-bottom: 3rem;
+    color: #5f6368;
+
+}
+.heading3{
+    
+    margin-bottom: 2rem;
+    
+}
+.inputs{
+    display: flex;
+}
+.button1{
+    height: 28px;
+    padding: .25rem;
+    
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    background-color: #1a73e8;
+    color: #fff;
+    border: 4px solid #1a73e8;
+    border-radius: 4px;
+    word-spacing: normal;
+    
+}
+.video_call{
+    font-size: 1.125rem;
+    font-weight: 550;
+
+}
+.text23{
+    font-size: 1rem;
+    font-weight: 550;
+    
+    
+}
+.input-text{
+    width: 280px;
+    height: 41px;
+    border: none;
+    
+    /* border: 1px solid black;
+    border-radius: 4px; */
+    
+}
+
+.inputpura{
+    border: 1px solid #5f6368;
+    margin-left: 25px;
+    border-radius: 4px;
+    
+    display: flex;
+    
+    align-items: center;
+}
+.keybords{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #5f6368;
+}
+.heading4{
+    width: 538px;
+    background-color: blue;
+    
+    border: none;
+    border-bottom: 1px solid #dadce0;
+    margin-bottom: 2rem;
+}
+.headding5{
+    color: #5f6368;
+
+}
+.hyperlink1{
+    text-decoration: none;
+    color: blue;
+}
+.right-main{
+
+}
+.text69{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.text70{
+    width: 310px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    
+    text-align: center;
+
+}
